@@ -1,3 +1,7 @@
+/**
+Exercise 2
+Rewrite the code below to assign each number to the right variable.
+*/
 console.log("EXERCISE 2");
 
 let numbers = [3, 5, 4, 2, 6, 1];
